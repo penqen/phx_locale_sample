@@ -1,0 +1,14 @@
+{
+  "dockerComposeFile": ["../compose.yml", "compose.yml"],
+  "service": "locales",
+	"workspaceFolder": "/app",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"JakeBecker.elixir-ls",
+				"pedromsluz.vscode-phoenix",
+				"mrorz.language-gettext"
+			]
+		}
+	}
+}

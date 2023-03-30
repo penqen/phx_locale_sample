@@ -1,0 +1,59 @@
+## This file is a PO Template file.
+##
+## "msgid"s here are often extracted from source code.
+## Add new messages manually only if they're dynamic
+## messages that can't be statically extracted.
+##
+## Run "mix gettext.extract" to bring this file up to
+## date. Leave "msgstr"s empty as changing them here has no
+## effect: edit them in PO (.po) files instead.
+#
+msgid ""
+msgstr ""
+
+#: lib/locales_web/components/core_components.ex:473
+#, elixir-autogen, elixir-format
+msgid "Actions"
+msgstr ""
+
+#: lib/locales_web/components/core_components.ex:100
+#: lib/locales_web/components/core_components.ex:152
+#, elixir-autogen, elixir-format
+msgid "close"
+msgstr ""
+
+#: lib/locales_web/live/auth/user_live/index.html.heex:33
+#, elixir-autogen, elixir-format
+msgid "Don't have account"
+msgstr ""
+
+#: lib/locales_web/live/auth/user_live/index.html.heex:10
+#, elixir-autogen, elixir-format
+msgid "Email"
+msgstr ""
+
+#: lib/locales_web/live/auth/user_live/index.html.heex:23
+#, elixir-autogen, elixir-format
+msgid "Forgot password"
+msgstr ""
+
+#: lib/locales_web/live/auth/user_live/index.html.heex:4
+#: lib/locales_web/live/auth/user_live/index.html.heex:28
+#, elixir-autogen, elixir-format
+msgid "Login"
+msgstr ""
+
+#: lib/locales_web/live/auth/user_live/index.html.heex:15
+#, elixir-autogen, elixir-format
+msgid "Password"
+msgstr ""
+
+#: lib/locales_web/live/auth/user_live/index.html.heex:35
+#, elixir-autogen, elixir-format
+msgid "Register"
+msgstr ""
+
+#: lib/locales_web/live/auth/user_live/index.html.heex:20
+#, elixir-autogen, elixir-format
+msgid "Remember me"
+msgstr ""
